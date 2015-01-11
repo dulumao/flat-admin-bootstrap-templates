@@ -44,21 +44,21 @@ $(function() {
     var data2 = [
     {
         value: 50,
-        color:"#F1654C",
-        highlight: "#FF5A5E",
+        color:"#F64747",
+        highlight: "#ed2323",
         label: "Mails"
+    },
+    {
+        value: 23,
+        color: "#ff9704",
+        highlight: "#ff7200",
+        label: "Messages"
     },
     {
         value: 280,
         color: "#00B16A",
-        highlight: "#5AD3D1",
+        highlight: "#01a250",
         label: "Views"
-    },
-    {
-        value: 23,
-        color: "#F39C12",
-        highlight: "#F39C12",
-        label: "Messages"
     }
 ]
 
