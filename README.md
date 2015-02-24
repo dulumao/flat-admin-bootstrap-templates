@@ -5,6 +5,6 @@ Completely free bootstrap templates with Bootstrap 3.
 - Resposive admin templates for all devices.
 
 Screenshot
-![SS](http://templates.tui2tone.me/images/flat-admin.png)
+![SS](http://templates.tui2tone.me/assets/img/flat-admin/flat-admin.png)
 
-[Live Demo](http://www.tui2tone.me/flat-admin-bootstrap-themes/)
+[Live Demo](http://www.tui2tone.me/flat-admin-bootstrap-templates/)
